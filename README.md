@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ChrisDrobny
+- 👀 I’m interested in learning about building data pipelines & back end infrastructure to automate "back office" workflows in the trading world.
+- 🌱 I’m currently learning SQL & Python.
